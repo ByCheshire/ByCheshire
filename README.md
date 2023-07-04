@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByCheshire
-- 👀 I’m interested in game development with C++ programming language
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in game development with C# programming language
+- 🌱 I’m currently learning C# and .NET
 
 <!---
 ByCheshire/ByCheshire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
